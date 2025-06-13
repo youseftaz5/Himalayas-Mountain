@@ -1,0 +1,9 @@
+﻿{
+  "name": "Lexend",
+  "textClasses": {
+    "label": { "fontFace": "Lexend" },
+    "callout": { "fontFace": "Lexend" },
+    "title": { "fontFace": "Lexend" },
+    "header": { "fontFace": "Lexend" }
+  }
+}
